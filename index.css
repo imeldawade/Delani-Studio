@@ -1,0 +1,78 @@
+body{
+    font-size: 15px;
+}
+
+.Welcome{
+    background-image: url(del.image1.jpg);
+    height:700px;
+    text-align: center;
+    padding-top: 15%;
+    background-size: cover;
+    color: white;   
+}
+.About{
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    
+}
+.Service{
+    background-image: url(del.image3.jpg);
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+    padding-top: 10%;
+    color: white;
+    padding-bottom: 10%;
+}
+.What h2{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+.What{
+    margin-bottom: 10%;
+}
+.dsn{
+    padding-left:10%;
+    
+}
+.dsn2{
+    padding-left: 11%;
+}
+.dvpt{
+    padding-left: 47%;
+    margin-top:-115px;
+}
+.dvpt2{
+    padding-left: 46%;
+}
+.pro{
+    padding-left:85%;
+    margin-top:-8.54%;
+}
+.pro2{
+    padding-left: 82%;
+}
+.Container1{
+    display: flex;
+    margin-bottom: 50px;
+    gap: 30px;
+    justify-content: center;
+}
+.Container2{
+    display: flex;
+    margin-bottom: 50px;
+    gap: 30px;
+    justify-content: center;
+}
+
+    
+
+    
+    
+    
+
+
+
