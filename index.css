@@ -67,6 +67,21 @@ body{
     gap: 30px;
     justify-content: center;
 }
+#Port{
+    margin-bottom: 10px;
+}
+#Port h2{
+    text-align: center;
+    padding-bottom: 15px;
+}
+.Contact{
+    background-image: url(del.image7.jpg);
+    background-size: cover;
+    /* display: flex;
+    gap: 10px; */
+    color: white;
+    height:600px ;
+}
 
     
 
