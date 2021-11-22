@@ -12,8 +12,8 @@ The site solves problems using designs
 * CSS
 * bootsrap
 
-## Contacts
-Email: imelda.wade@student.moringaschool.com
+<!-- ## Contacts
+Email: imelda.wade@student.moringaschool.com -->
 
 ## Project live link
 https://imeldawade.github.io/Delani-Studio/
