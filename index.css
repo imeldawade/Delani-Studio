@@ -4,7 +4,7 @@ body{
 }
 
 .Welcome{
-    background-image: url(del.image1.jpg);
+    background-image: url(Assets/del.image1.jpg);
     height:700px;
     text-align: center;
     padding-top: 15%;
@@ -18,7 +18,7 @@ body{
     
 }
 .Service{
-    background-image: url(del.image3.jpg);
+    background-image: url(Assets/del.image3.jpg);
     background-size: cover;
     height: 500px;
     text-align: center;
@@ -76,7 +76,7 @@ body{
     padding-bottom: 15px;
 }
 .Contact{
-    background-image: url(del.image7.jpg);
+    background-image: url(Assets/del.image7.jpg);
     background-size: cover;
     /* display: flex;
     gap: 10px; */
