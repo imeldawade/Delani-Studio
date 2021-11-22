@@ -2,7 +2,7 @@
 Delanie Studio
 
 ## Description
-
+The site solves problems using designs
 
 ## Author
 * Imelda Wade
