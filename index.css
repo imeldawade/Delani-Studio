@@ -1,5 +1,6 @@
 body{
     font-size: 15px;
+    
 }
 
 .Welcome{
@@ -94,13 +95,18 @@ body{
 }
 .footer{
     height: 200px;
+    text-align: center;
     
 }
 .icons{
-    margin-top: 2%;
-    text-align: center;
-    justify-content: space-between;
-    
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    padding-top: 40px;
+
+}
+.del{
+    padding-top: 20px;
 }
 
     
