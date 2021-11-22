@@ -1,0 +1,11 @@
+$(document).ready(function(){
+    $("#dsn").click(function(){
+        $(".dsn2").toggle();
+    });
+    $("#dvpt").click(function(){
+        $(".dvpt2").toggle();
+    });
+    $("#pro").click(function(){
+        $(".pro2").toggle();
+    });
+});
