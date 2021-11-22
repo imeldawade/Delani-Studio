@@ -97,7 +97,10 @@ body{
     
 }
 .icons{
-    margin-top: 5%;
+    margin-top: 2%;
+    text-align: center;
+    justify-content: space-between;
+    
 }
 
     
