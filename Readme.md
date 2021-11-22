@@ -25,5 +25,3 @@ No guarantee is made by the software vendor to the third party of no software bu
 ##  setup Instructions
 To run this project, install it locally on your computer.
 
-## License
-MIT
