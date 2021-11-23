@@ -10,7 +10,9 @@ The site solves problems using designs
 ## Technologies                                                             
 * HTML
 * CSS
-* bootsrap
+* Bootstrap
+* Javascript
+
 
 ## Contacts
 Email: imelda.wade@student.moringaschool.com
