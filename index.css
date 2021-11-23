@@ -78,18 +78,23 @@ body{
 }
 .C{
     display: flex;
-    /* justify-content: space-around; */
     column-gap: 10px;
-    /* justify-self: center; */
+    
 }
 form{
     display: flex;
     flex-direction: column;
-    align-items: center;
+    /* align-items: center; */
+    padding-left: 20%;
     
+}
+.button{
+    width:150px;
+    background: transparent;
 }
 #message{
     height: 300px;
+
 
 }
 .footer{
