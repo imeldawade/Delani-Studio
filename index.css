@@ -91,6 +91,7 @@ form{
 .button{
     width:150px;
     background: transparent;
+    margin-top: 10px;
 }
 #message{
     height: 300px;
