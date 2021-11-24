@@ -40,6 +40,16 @@ body{
     justify-content:space-around;
     text-align: center;
     /* column-gap: 70px; */
+    
+}
+.dsn2{
+    display: none;
+}
+.dvpt2{
+    display: none;
+}
+.pro2{
+    display: none;
 }
 .Container1{
     display: flex;
@@ -95,9 +105,10 @@ form{
 }
 #message{
     height: 300px;
-
-
+    
 }
+
+
 .footer{
     height: 200px;
     text-align: center;
